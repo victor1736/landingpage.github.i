@@ -1,0 +1,10 @@
+1.en settings configuramos escribimos sass format elegimos settings:format
+ {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css",
+            "savePathReplacementPairs": null
+        }
+        debe quedar igual 
+
+2. ahora damos contol + shift + p y escribimos sass:watch y damos enter si no no entran los estilos en el servidor 
